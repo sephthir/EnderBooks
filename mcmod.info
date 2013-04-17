@@ -1,0 +1,19 @@
+{
+	"modinfoversion": 2,
+	"modlist": [{
+		"modid": "sephthir.enderbooks",
+		"name": "Ender Books",
+		"description": "A mod to add Ender Books, based on the idea proposed at http://bit.ly/YJC5FJ by /u/TheRegularHexahedron on /r/minecraftsuggestions.",
+		"version": "1.1",
+		"mcversion": "1.5.1",
+		"logoFile": "/logoEnderBooks.png",
+		"url": "",
+		"updateUrl": "",
+		"authors": ["sephthir"],
+		"credits": "Based on an idea by TheRegularHexahedron",
+		"parent": "",
+		"screenshots": [],
+		"dependencies": [],
+		"requiredMods": ["Forge"],
+	}]
+}

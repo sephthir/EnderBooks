@@ -1,0 +1,51 @@
+TERMS AND CONDITIONS
+
+This document describes the terms under which the Ender Books mod,
+from now on also refered to as the "MOD" may be used.
+
+0 - USED TERMS
+
+MOD       - modification, plugin, a piece of software that interfaces
+            with the Minecraft client to extend, add, change or remove
+            original capabilities.
+MOJANG    - Mojang AB
+DEVELOPER - sephthir, Original author of the MOD. Under the copyright
+            terms accepted when purchasing Minecraft
+            (http://www.minecraft.net/copyright.jsp) the DEVELOPER
+            has full rights over their MOD despite use of MOJANG code.
+
+1 - USAGE
+
+This MOD is open-source. You can use it's source code in other
+software projects you are involved in. You can, in the same way,
+use it's resources (images, sound, etc) in other software projects.
+Take note however, that some resources are derived from Minecraft's
+resources and are property of MOJANG, which binds the usage of
+said resources to MOJANG's terms.
+
+The permission to use this MOD's source code or resources in any other
+software project only applies if the project using this MOD's source
+code or resources is free software. This permission is revoked from any
+commercial software.
+
+This MOD is provided freely and may be modified for private use.
+Public distribution of modified versions of this MOD require advance
+written permission of the DEVELOPER and may be subject to certain terms.
+
+This MOD may be used in any compilation (also known as "Mod Pack")
+with the DEVELOPER's full written permission.
+
+You cannot redistribute this MOD without full written permission from
+the DEVELOPER in advance. You can, however, send it to a reasonably
+sized group of players (of up to 15 players), if (and only if) you are
+setting up or managing a server and all said players play in that server.
+
+2 - WARRANTY & LIABILITY
+
+Use this MOD at your own risk.
+
+The DEVELOPER takes no liability for any damage that may occur to your
+software, hardware or yourself.
+
+This MOD comes with no warranties, express or implied.
+

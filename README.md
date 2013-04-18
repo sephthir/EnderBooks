@@ -41,15 +41,15 @@ Crafting
 
 An ender book is crafted by combining a book-and-quill with an eye of ender:
 
-![Ender book crafting recipe](http://i.imgur.com/dVvnLgv.png)
+![Ender book crafting recipe](http://i.imgur.com/iONLtGE.png)
 
 When an ender book is crafted, it is not associated with a particular player until it is opened the first time, at which point it represents a new book owned by that player.  Obviously then, there needs to be a way to duplicate an existing ender book so they represent the same book.
 
 An existing ender book can be duplicated much akin to how maps are copied — one can craft a new ender book with a written ender book in the table (meaning: book-and-quill, eye of ender, and a written ender book), or with an unwritten ender book together with a written one:
 
-![Ender book duplication](http://i.imgur.com/wH2f2ka.png)
+![Ender book duplication](http://i.imgur.com/itkNhwO.png)
 
-![Ender book duplication](http://i.imgur.com/6Wx5YjK.png)
+![Ender book duplication](http://i.imgur.com/DPMG9ra.png)
 
 Screenshots
 ----------

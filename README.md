@@ -15,6 +15,13 @@ Ender books are roughly to books what ender chests are to chests — books that 
 
 The mod can be acquired [here](http://adf.ly/Mv2Kf) (alternate download link, if you can't download from MEGA: [here](http://adf.ly/MvJWg)), and requires Minecraft Forge build 7.7.0.600 or newer (available from [here](http://files.minecraftforge.net/)).
 
+Features in development
+----------
+
+Features being worked on currently:
+
+* "changed" notifications (the books look different if the author has made a change the user has not read yet)
+
 Possible future features
 ----------
 

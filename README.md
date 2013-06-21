@@ -13,7 +13,7 @@ Ender books are roughly to books what ender chests are to chests — books that 
 
 **Additional requirements:**
 
-The current version of the mod, 1.1-1, can be acquired [here](http://adf.ly/QrScY) (alternate download link, if you can't download from MEGA: [here](http://adf.ly/QrSYn)), and requires Minecraft Forge (available from [here](http://files.minecraftforge.net/)).
+The current version of the mod, 1.1-1, can be acquired [here](http://adf.ly/QrScY) (alternate download link, if you can't download from MEGA: [here](http://adf.ly/QrTDM)), and requires Minecraft Forge (available from [here](http://files.minecraftforge.net/)).
 
 Previous versions:
 

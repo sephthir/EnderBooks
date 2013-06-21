@@ -101,11 +101,10 @@ public class ItemEnderBook extends Item {
 	
 	@SideOnly(Side.CLIENT)
 	@Override
-	public void updateIcons(IconRegister register)
+	public void registerIcons(IconRegister register)
 	{
 		this.iconNotAuthor = register.registerIcon("sephthir:EnderBook");
 		this.iconAuthor = register.registerIcon("sephthir:EnderBookEditable");
-		this.iconIndex = this.iconNotAuthor;
 	}
 	
 	@Override

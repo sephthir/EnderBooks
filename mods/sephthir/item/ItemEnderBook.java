@@ -105,6 +105,7 @@ public class ItemEnderBook extends Item {
 	{
 		this.iconNotAuthor = register.registerIcon("sephthir:EnderBook");
 		this.iconAuthor = register.registerIcon("sephthir:EnderBookEditable");
+		this.itemIcon = this.iconNotAuthor;
 	}
 	
 	@Override

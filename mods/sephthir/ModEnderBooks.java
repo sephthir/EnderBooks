@@ -37,7 +37,7 @@ import cpw.mods.fml.relauncher.Side;
 @Mod(
 	modid				= "sephthir.enderbooks",
 	name				= "Ender Books",
-	version				= "1.1-1")
+	version				= "1.1-2")
 @NetworkMod(
 	clientSideRequired	= true,
 	serverSideRequired	= true,
